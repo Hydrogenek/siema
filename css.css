@@ -1,0 +1,28 @@
+#text-files {
+   float:left;
+   border-radius: 25px;
+   background-position: center;
+   background: url(./sheppy-shisha.gif);
+   padding: 20px;
+   background-color: green;
+   color: magenta;
+   font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+   font-size: large;
+   overflow-wrap: normal;
+   max-width: 310px;
+
+}
+#yes{
+   height: 50px;
+   color: magenta;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   background: url(./bart.png) ;
+   text-align: center ;
+   font-size: 40px;
+   border-radius: 30px;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   height: 100px;
+   margin-bottom: 10px;
+}
